@@ -1,7 +1,11 @@
-![ss-1](https://user-images.githubusercontent.com/89742392/144717330-b2491f82-fd98-4261-a34a-935cf37cb15f.png)
-![ss-2](https://user-images.githubusercontent.com/89742392/144717337-cb2cb75c-5d67-403c-b436-7a070905aa86.png)
-![ss-3](https://user-images.githubusercontent.com/89742392/144717338-183b833c-5880-4685-a7a8-5c9bbb1a947c.png)
 # File-System-Organiser
 It is a global command line application that organizes all your files into different sub-folders automatically. The application segregates files into categories like apps, images, media, documents, etc. Implemented using path and file system modules of Node.js and JavaScript.
 Using Switch case - Help , Organise and Tree functions have been implemented in order to accomplish the task of organising files into their specific folders according to their category. 
  
+![ss-1](https://user-images.githubusercontent.com/89742392/144717363-8e753bd2-7863-464a-89aa-8006b502f4a4.png)
+
+
+![ss-2](https://user-images.githubusercontent.com/89742392/144717386-fe0b869b-a7f2-4cbb-b0b4-1afcebca4e43.png)
+
+
+![ss-3](https://user-images.githubusercontent.com/89742392/144717396-7bbbc6d3-3415-4319-80c8-7182aee78481.png)
